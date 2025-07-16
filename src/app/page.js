@@ -116,7 +116,7 @@ function App() {
                 {brewery.street && (
                   <div className="flex items-center gap-1 text-sm text-gray-700">
                     <MapPin className="w-4 h-4" />
-                    {brewery.street}
+                    {brewery.street}, {brewery.city}, {brewery.state}
                   </div>
                 )}
 
