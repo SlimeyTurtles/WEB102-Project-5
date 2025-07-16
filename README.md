@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Demo Gif](https://raw.githubusercontent.com/SlimeyTurtles/WEB102-Project-5/refs/heads/main/demo.gif)
 
 ## Notes
 
